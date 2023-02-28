@@ -2,7 +2,8 @@
 <div align="center">
   <a href="https://github.com/5vl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=5vl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5vl&layout=compact&langs_count=7&theme=tokyonight"/><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5vl&layout=compact&langs_count=7&theme=tokyonight"/>
+  <h6>Please note that this is only from public repos ^^</h6>
   <h3>Amount of people who have visited my profile since 04-02-2023:</h3>
   <img src="https://profile-counter.glitch.me/5vl/count.svg"/><br>
 </div>
